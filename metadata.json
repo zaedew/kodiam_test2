@@ -1,0 +1,7 @@
+{
+  "name": "Kodiam Bible - Deep Bible Study Guide",
+  "description": "A comprehensive Bible reading platform with AI-powered study guides, daily verses, and interactive biblical Q&A powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
